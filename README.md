@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zau-dev75&bg_color=040d1a&color=41719c&line=5282b0&point=ffffff&area=true&area_color=192d47&border_color=16263d&hide_border=false" width="100%" alt="Esaú's Contribution Graph" />
+</div>
